@@ -1,0 +1,2 @@
+# conflict-resolution
+delete me
